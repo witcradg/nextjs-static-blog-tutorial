@@ -25,3 +25,24 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+/* debug convenience */
+.debug-red {
+  border: solid 2px red;
+}
+
+.debug-green {
+  border: solid 2px green;
+}
+
+.debug-blue {
+  border: solid 2px blue;
+}
+
+.debug-black {
+  border: solid 2px black;
+}
+
+.debug-white {
+  border: solid 2px white;
+}
